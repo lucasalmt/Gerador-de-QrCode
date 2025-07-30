@@ -1,1 +1,1 @@
-gerador-de-qr-code-5wo8ubw2y-lucasalmts-projects.vercel.app
+https://gerador-de-qr-code-vert.vercel.app/
